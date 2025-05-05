@@ -2,7 +2,7 @@
 title: Home
 layout: home
 permalink: index.html
-description: An endeavour to understand the CIS-COD raster image format.
+description: An endeavour to understand the CIS/COD raster image format.
 ---
 
 The aim of this site is to document the
