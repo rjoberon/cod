@@ -5,6 +5,8 @@ permalink: documentation.html
 description: Documenting the CIS/COD raster image format.
 ---
 
+This page will be regularly updated by incorporating information from the posts.
+
 # Introduction
 
 # History
@@ -28,4 +30,4 @@ description: Documenting the CIS/COD raster image format.
 
 # External links
 
-- http://justsolve.archiveteam.org/wiki/Lightning_Strike
+- <http://justsolve.archiveteam.org/wiki/Lightning_Strike>
