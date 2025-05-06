@@ -21,7 +21,7 @@ This page will be regularly updated by incorporating information from the posts.
 
 ## Lightning Strike Image Compressor (LSIC)
 
-| version | file name  | file size    |  file date | file  formats                |
+| version | file name  | file size    |  file date | supported file formats       |
 |---------+------------+--------------+------------+------------------------------|
 |     2.5 | lsic25.exe | 126976 bytes | 1996-04-11 | .bmp, .cod, .tga             |
 |     2.6 | lsic.exe   | 601088 bytes | 1996-10-17 | .bmp, .cod, .tga, .gif, .jpg |
