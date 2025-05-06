@@ -19,6 +19,34 @@ This page will be regularly updated by incorporating information from the posts.
 
 # Software
 
+## Lightning Strike Image Compressor (LSIC)
+
+| version | file name  | file size    |  file date | file  formats                |
+|---------+------------+--------------+------------+------------------------------|
+|     2.5 | lsic25.exe | 126976 bytes | 1996-04-11 | .bmp, .cod, .tga             |
+|     2.6 | lsic.exe   | 601088 bytes | 1996-10-17 | .bmp, .cod, .tga, .gif, .jpg |
+
+### LSIC 2.5
+
+- can resize image
+- "master setup" allows fine-grained control over compression
+  parameters:
+  - number of A, B, and C levels
+  - quantization vectors
+  - total levels
+  - threshold vector
+
+### LSIC 2.6
+
+- can sharpen image and apply some filters
+- "master setup" allows fine-grained control over compression
+  parameters:
+  - levels to discard
+  - levels to sample
+  - quantization vectors
+  - total levels
+  - threshold vector
+
 # Use
 
 - [D-Sat](https://de.wikipedia.org/wiki/D-Sat), at least version 1
