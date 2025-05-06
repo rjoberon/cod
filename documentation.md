@@ -47,6 +47,32 @@ This page will be regularly updated by incorporating information from the posts.
   - total levels
   - threshold vector
 
+## Web Browser Plugin
+
+| version |        | file name   | file size | date                |
+|---------+--------+-------------+-----------+---------------------|
+|     1.7 | 16 bit | NPCOD16.DLL |    125312 | 1996-07-25 (README) |
+|     1.7 | 32 bit | NPCOD32.DLL |    179712 | 1996-07-25 (README) |
+|   2.6.0 | 32 bit | NPLS32.DLL  |    237056 | 1997-02-14 (README) |
+|   3.1.3 | 32 bit | NpLS32.dll  |    280064 | 1997-09-29 (DLL)    |
+
+## Lightning Strike Video Codec 3.5
+
+| file name  | file size | README date |
+|------------+-----------+-------------|
+| lsvc30.dll |     83968 |  1998-04-23 |
+| lsvc.dll   |    123392 |  1998-05-12 |
+| lsvd30.dll |     91648 |  1998-04-23 |
+
+## Lightning Strike Video Messenger 2.4
+
+## Other DLLs
+
+| file name    | file size |  file date | source         |
+|--------------+-----------+------------+----------------|
+| lsd26dll.dll |     69632 | 1996-08-07 | D-Sat 1 CD-ROM |
+| lsvxdec.dll  |    204800 |            |                |
+
 # Use
 
 - [D-Sat](https://de.wikipedia.org/wiki/D-Sat), at least version 1
