@@ -1,6 +1,5 @@
 ---
 title: Understanding the CIS/COD image file format
-image: /img/dsat1_dekodiert_1.png
 description: An overview on the goals of this page and existing resources.
 ---
 
