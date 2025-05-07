@@ -1,5 +1,5 @@
 ---
-title: Understanding the CIS/COD image file format
+title: Understanding the CIS/COD Image File Format
 description: An overview on the goals of this page and existing resources.
 ---
 
@@ -11,15 +11,15 @@ exists little information about that format and no current software to
 open and view the files. The goal of this web site is to collect as
 much information as possible about the file format and associated
 resources to ultimately enable an implementation of an open source
-image viewer for CIS/COD files.
+image viewer for those files.
 
 ## About the Name
 
-The [ArchiveTeam
-wiki](http://justsolve.archiveteam.org/wiki/Lightning_Strike) calls
-the image format "Lightning Strike" and states the MIME type to be
-"image/cis-cod". The three letters "CIS" are the first three bytes of
-each image file (a [magic
+According to archived web pages and the [ArchiveTeam
+wiki](http://justsolve.archiveteam.org/wiki/Lightning_Strike) the
+image format is called "Lightning Strike". The wiki states the MIME
+type to be "image/cis-cod". The three letters "CIS" are the first
+three bytes of each image file (a [magic
 number](https://en.wikipedia.org/wiki/File_format#Magic_number)) and
 at the moment it is not clear, what they stand for.  The files
 typically have the file extension "cod" which very likely stands for
