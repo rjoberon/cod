@@ -6,12 +6,12 @@ description: An overview on the goals of this page and existing resources.
 In an attempt to [reverse-engineer the file format of D-Sat
 1](https://dsat.igada.de/) I discovered that [the satellite images are
 stored using the Lightning Strike image
-format](https://dsat.igada.de/2024/04/03/learning-about-the-image-format.html),
-also called CIS/COD. There exists little information about that format
-and no current software to open and view the files. The goal of this
-web site is to collect as much information as possible about the file
-format and associated resources to ultimately enable an implementation
-of an open source image viewer for CIS/COD files.
+format](https://dsat.igada.de/2024/04/03/learning-about-the-image-format.html). There
+exists little information about that format and no current software to
+open and view the files. The goal of this web site is to collect as
+much information as possible about the file format and associated
+resources to ultimately enable an implementation of an open source
+image viewer for CIS/COD files.
 
 ## About the Name
 
