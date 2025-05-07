@@ -1,8 +1,31 @@
-0       string    CIS   CIS/COD image data,
+0       string    CIS       CIS/COD image data,
 !:mime  image/cis-cod
 !:ext   png
->3      regex/4   [23]\.[0-9]  version %s,
->>8     leshort   56    greyscale,
->>8     leshort   60    color,
->>16    leshort   x     %d x
->>18    leshort   x     %d
+# versions 2.3 to 2.5 are different to version 3.0
+>3      regex/4   2\.[345]  version %s,
+>>16    leshort   x         %d x
+>>18    leshort   x         %d
+# so far we know more about version 3.0
+>3      string/3  3.0       version %s,
+# width and height
+>>16    leshort   x         %d x
+>>18    leshort   x         %d x
+>>20    byte      x         %d
+# gray vs. color
+>>21    byte      0         (gray,
+>>21    byte      1         (color,
+# encoder type
+>>24    byte      1         lossy arithmetic encoder,
+>>24    byte      2         lossless arithmetic encoder,
+# compression type
+>>25    byte      1         bi-wavelet compression,
+# quantizer type
+>>26    byte      1         table quantization,
+# scb
+>>27    byte      1         SISD,
+# color space
+>>28    byte      1         YIQ RGB,
+>>28    byte      2         YUV RGB,
+>>28    byte      3         YCbCr RGB,
+# wavelet levels
+>>29    byte      x         %d wavelet levels)
