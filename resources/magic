@@ -1,7 +1,7 @@
 0       string    CIS   CIS/COD image data,
 !:mime  image/cis-cod
 !:ext   png
->3      string/3  x     version %s,
+>3      regex/4   [23]\.[0-9]  version %s,
 >>8     leshort   56    greyscale,
 >>8     leshort   60    color,
 >>16    leshort   x     %d x
