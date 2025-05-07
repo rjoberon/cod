@@ -50,6 +50,14 @@ This page will be regularly updated by incorporating information from the posts.
   - total levels
   - threshold vector
 
+### LSIC 3.0
+
+According to the [patent WO1998040842A1 "System and method for image
+compression and
+decompression"](https://patents.google.com/patent/WO1998040842A1),
+there existed a "Lightning Strike™ Image Compressor (LSIC) version
+3.0".
+
 ## Web Browser Plugin
 
 |  version |          | file name     |   file size | date                  | file MD5 hash                    |
