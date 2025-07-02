@@ -24,9 +24,10 @@ This page will be regularly updated by incorporating information from the posts.
 
 ## Companies
 
-- Computer and Information Sciences, Inc.
-- Infinop, Inc.
-- Infinitron Research International, Inc.
+- *Computer and Information Sciences, Inc.*
+- *Infinop, Inc.* (also called *Infinet Op* in the help file of the
+  *Lightning Strike Image Compressor (LSIC)* version 2.5)
+- *Infinitron Research International, Inc.*
 
 ([described here](/2025/07/02/companies-locations-dates-and-people.html))
 
@@ -72,6 +73,9 @@ This page will be regularly updated by incorporating information from the posts.
   - quantization vectors
   - total levels
   - threshold vector
+  - The help file states: "LSIC 2.6 increases compression ratio
+    approximately 10% over LSIC V2.5. The new format of coded file can
+    be decompressed in incremental mode."
 
 ### LSIC 3.0
 
