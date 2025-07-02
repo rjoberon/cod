@@ -26,7 +26,10 @@ This page will be regularly updated by incorporating information from the posts.
 
 - *Computer and Information Sciences, Inc.*
 - *Infinop, Inc.* (also called *Infinet Op* in the help file of the
-  *Lightning Strike Image Compressor (LSIC)* version 2.5)
+  *Lightning Strike Image Compressor (LSIC)* version 2.5, in [MacUser
+  05/1996, page
+  28](https://vintageapple.org/macuser/pdf/MacUser_9605_May_1996.pdf),
+  and on some contemporary web pages)
 - *Infinitron Research International, Inc.*
 
 ([described here](/2025/07/02/companies-locations-dates-and-people.html))
