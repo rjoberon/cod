@@ -10,6 +10,7 @@ involved in the implementation of the Lightning Strike image codec.
 
 [Our first post]: https://cod.igada.de/2025/05/07/understanding-the-cis-cod-image-file-format.html
 
+## Infinop, Inc. and Computer and Information Sciences, Inc.
 The [Lightning Strike image codec] was distributed by a company named
 *Infinop, Inc.* and there are several links between that company and
 *Computer and Information Sciences, Inc.* I first stumbled over the
@@ -46,26 +47,11 @@ images].
 
 Another evidence for the relationship between the two companies are
 their addresses. The [Infinop web page][infinop] states the company's
-address as *3401 East University #104, Denton, TX 76208* and [a press
-release] states that "Craig Fisher" is "president of Infinop,
-Inc.". The above-mentioned publication states as the address of
-Compsci, Inc. *303 N. Carroll, Suite 108, Denton TX 76201*, which is
-[roughly 5 miles](https://maps.app.goo.gl/NUYagtAU8kUNGD757) apart
-from the former location of Infinop, Inc.
-
-The authors of the publication are "Oleg Kiselyov and Paul Fisher",
-who also co-authored other image compression-related papers, for
-example, [Image Compression with Iterated Function Systems, Finite
-Automata and Zerotrees: Grand
-Unification](https://arxiv.org/abs/cs/0003065) (submitted to arXiv on
-March 15, 2000).
-
-[a press release]: https://web.archive.org/web/19970613234255/http://www.infinop.com/nhtml/press.shtml
-
-We could speculate that Paul Fisher and Craig Fisher might have been
-relatives but even without that it seems evident that *Infinop, Inc.*
-and *Computer and Information Sciences, Inc.* were both related to the
-Lightning Strike technology.
+address as *3401 East University #104, Denton, TX 76208*. The
+above-mentioned publication states as the address of Compsci,
+Inc. *303 N. Carroll, Suite 108, Denton TX 76201*, which is [roughly 5
+miles](https://maps.app.goo.gl/NUYagtAU8kUNGD757) apart from the
+former location of Infinop, Inc.
 
 Another link between the two companies is via the [former
 homepage](https://web.archive.org/web/19990220121339/http://www.compsci.com/%7Echao/)
@@ -75,10 +61,27 @@ which was hosted on compsci.com and states that she is the designer of
 the Lightning Strike image compressor, linking to
 [infinop.com](https://web.archive.org/web/19990220121339/http://www.infinop.com/).
 
+Looking at other people, [a press release] states that "Craig Fisher"
+is "president of Infinop, Inc." and the authors of the above-mentioned
+publication are "Oleg Kiselyov and Paul Fisher", who also co-authored
+other image compression-related papers, for example, [Image
+Compression with Iterated Function Systems, Finite Automata and
+Zerotrees: Grand Unification](https://arxiv.org/abs/cs/0003065)
+(submitted to arXiv on March 15, 2000).
+
+[a press release]: https://web.archive.org/web/19970613234255/http://www.infinop.com/nhtml/press.shtml
+
+Although there is no obvious overlap, we do not need to speculate that
+Paul Fisher and Craig Fisher might have been relatives since, given
+the other clues it seems evident that *Infinop, Inc.*  and *Computer
+and Information Sciences, Inc.* were both related to the Lightning
+Strike technology.
+
+
 ## Infinitron, Inc.
 
 Weirdly enough, there's another company, *Infinitron, Inc.*, that
-seems to have played a role in the coded. It is mentioned in the
+seems to have played a role in the codec. It is mentioned in the
 [patent WO1998040842A1] that was published in September 17, 1998. The
 patent contains the paper *An approach of fast integer reversible
 wavelet transform for image compression* written by Hongyang Chao and
@@ -90,6 +93,8 @@ from the other paper! The patent also contains a product flyer for the
 *Infinitron, Inc.*  – also located at *3401 East University #104,
 Denton, TX 76208*. And, last but not least, the patent shows HTML
 source code to embed an image map that links to www.infinop.com.
+
+[patent WO1998040842A1]: https://patents.google.com/patent/WO1998040842A1
 
 ## Overview and Summary
 
