@@ -4,9 +4,9 @@ description: What "CIS" means and which people and companies were involved
 ---
 
 [Our first post] explains that "cod" very likely stands for "coded"
-(image) but does not explain what "cis" means. TL;DR: it's the acronym
-for *Computer and Information Sciences, Inc.*, a company involved in
-the implementation of the Lightning Strike image codec.
+(image) but does not explain what "cis" means. TL;DR: It's the acronym
+for *Computer and Information Sciences, Inc.*, a company that was
+involved in the implementation of the Lightning Strike image codec.
 
 [Our first post]: https://cod.igada.de/2025/05/07/understanding-the-cis-cod-image-file-format.html
 
@@ -15,8 +15,7 @@ The [Lightning Strike image codec] was distributed by a company named
 *Computer and Information Sciences, Inc.*
 
 
-The [first capture of the company's web page in the
-Internet
+The [first capture of the Infinop's web page in the Internet
 Archive](https://web.archive.org/web/19970613234152/http://www.infinop.com/)
 dates from June 13, 1997 but the first entry on the [news page] is
 from September 13, 1996.
@@ -24,16 +23,16 @@ from September 13, 1996.
 [Lightning Strike image codec]: https://web.archive.org/web/19970613234152/http://www.infinop.com/nhtml/lsinfo.shtml
 [news page]: https://web.archive.org/web/19970613234247/http://www.infinop.com/nhtml/news.shtml
 
-There is another relevant company that – according to the affiliation
-information of the publication "[Dissemination of compressed Satellite
-imagery within the Navy SPAWAR Central Site Product Display
+I first stumbled over the name *Computer and Information Sciences,
+Inc.* (or short *CIS, Inc.*) in the publication "[Dissemination of
+compressed Satellite imagery within the Navy SPAWAR Central Site
+Product Display
 environment](https://ntrs.nasa.gov/citations/19960008292)" ([archived
 tar.gz with all HTML documents from the host
 www.compsci.com](https://web.archive.org/web/19970619034116/http://www.compsci.com:80/SIMDC95.tar.gz))
-published on October 1, 1995, at *The 1995 Science Information
-Management and Data Compression Workshop* – was named *Computer and
-Information Sciences, Inc.*, or short *CIS, Inc.*. Looking at [it's
-archived web
+that was published on October 1, 1995, at *The 1995 Science
+Information Management and Data Compression Workshop*. Looking at
+[it's archived web
 page](https://web.archive.org/web/19970619034025/http://www.compsci.com/)
 we see a directory listing with two folders – [infinop] and [lstrike]
 that link that company to Infinop, Inc. and the Lightning Strike image
@@ -111,16 +110,16 @@ source code to embed an image map that links to www.infinop.com.
     <th>document</th><th>date</th><th>persons</th><th>affiliation</th><th>address</th>
   </tr>
   <tr>
-    <td>scholarly article<a href="https://ntrs.nasa.gov/citations/19960008292">Dissemination of compressed Satellite imagery within the Navy SPAWAR Central Site Product Display environment</a> (<a href="https://web.archive.org/web/19970619034116/http://www.compsci.com:80/SIMDC95.tar.gz">archived tar.gz of HTML documents with full address</a>) </td>
+    <td>scholarly article <a href="https://ntrs.nasa.gov/citations/19960008292">Dissemination of compressed Satellite imagery within the Navy SPAWAR Central Site Product Display environment</a> (<a href="https://web.archive.org/web/19970619034116/http://www.compsci.com:80/SIMDC95.tar.gz">archived tar.gz of HTML documents with full address</a>) </td>
     <td>October 1, 1995</td>
     <td>authors: Oleg Kiselyov, Paul Fisher</td>
     <td>Computer and Information Sciences, Inc.</td>
     <td>303 N. Carroll, Suite 108, Denton TX 76201</td>
   </tr>
   <tr>
-    <td>Press Release <a href="https://web.archive.org/web/19970613234255/http://www.infinop.com/nhtml/press.shtml">Lightning Strike 2.6 Plugin is Ready for the Web</a></td>
-    <td>president: Craig Fisher</td>
+    <td>press release <a href="https://web.archive.org/web/19970613234255/http://www.infinop.com/nhtml/press.shtml">Lightning Strike 2.6 Plugin is Ready for the Web</a></td>
     <td>November 7, 1996</td>
+    <td>president: Craig Fisher</td>
     <td>Infinop, Inc.</td>
     <td>3401 East University #104, Denton, TX 76208</td>
   </tr>
