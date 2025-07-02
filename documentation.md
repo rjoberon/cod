@@ -11,6 +11,25 @@ This page will be regularly updated by incorporating information from the posts.
 
 # History
 
+## Names
+
+- Lightning Strike: the trademark registered as the product name for
+  the compression technology
+- COD: [very likely](https://cod.igada.de/2025/05/07/understanding-the-cis-cod-image-file-format.html) stands for "coded" (image)
+- CIS: [almost
+  certainly](https://cod.igada.de/2025/07/02/companies-locations-dates-and-people.html)
+  stands for "Computer and Information Sciences, Inc.", a company that
+  was involved in the implementation of the Lightning Strike image
+  codec.
+
+## Companies
+
+- Computer and Information Sciences, Inc.
+- Infinop, Inc.
+- Infinitron Research International, Inc.
+
+([described here](https://cod.igada.de/2025/07/02/companies-locations-dates-and-people.html))
+
 # Versions
 
 # File format
@@ -28,9 +47,10 @@ This page will be regularly updated by incorporating information from the posts.
 | file date              | 1996-04-11                       | 1996-10-17                       |
 | file MD5 hash          | 3f6d7e0c8260e51f61b3fdf85efd8931 | 1a4ed8edeb6bbd66ff3bad6c0a3e0276 |
 | supported file formats | .bmp, .cod, .tga                 | .bmp, .cod, .tga, .gif, .jpg     |
-| source                 | [lsic25.zip]                     |                                  |
+| source                 | [lsic25.zip]                     | [LSIC26~1.ZIP]                   |
 
 [lsic25.zip]: https://web.archive.org/web/19970619034938/http://www.compsci.com/lstrike/windows/CODEC/lsic25.zip
+[LSIC26~1.ZIP]: https://web.archive.org/web/19961106190151/http://euclid.infinop.com:80/html/LSIC26~1.ZIP
 
 ### LSIC 2.5
 
@@ -67,29 +87,49 @@ there existed a "Lightning Strike™ Image Compressor (LSIC) version
 | -------: | -------: | :------------ | ----------: | :-------------------- | :------------------------------- | :---------------------------- |
 |      1.7 | 16 bit   | NPCOD16.DLL   |      125312 | 1996-04-23 (DLL)      | 7c7c5df1f7ea6c95acb7118d1e995093 | [ls16tiny.exe], [lstplug.exe] |
 |      1.7 | 32 bit   | NPCOD32.DLL   |      179712 | 1996-04-23 (DLL)      | 2d4f3656979c2cc27145f25b379c7bec | [ls32tiny.exe], [lstplug.exe] |
-|    2.6.0 | 32 bit   | NPLS32.DLL    |      237056 | 1997-02-14 (README)   | bd3c81d8185588b9ca76af8b196897df |                               |
-|    3.1.3 | 32 bit   | NpLS32.dll    |      280064 | 1997-09-29 (DLL)      | d9c1b69f2a5081350c66bc23b696b582 |                               |
+|    2.6.0 | 32 bit   | NPLS32.DLL    |      237056 | 1997-02-14 (README)   | bd3c81d8185588b9ca76af8b196897df | [ls26.exe]                    |
+|    3.1.3 | 32 bit   | NpLS32.dll    |      280064 | 1997-09-29 (DLL)      | d9c1b69f2a5081350c66bc23b696b582 | [lsnswi32.exe]                |
 
 [ls16tiny.exe]: https://web.archive.org/web/19970619034318/http://www.compsci.com/lstrike/windows/ls16tiny.exe
 [ls32tiny.exe]: https://web.archive.org/web/19970619034318/http://www.compsci.com/lstrike/windows/ls32tiny.exe
 [lstplug.exe]: https://web.archive.org/web/19970619034318/http://www.compsci.com/lstrike/windows/lstplug.exe
+[ls26.exe]: ftp://www.nic.funet.fi/.m/mirrors/Archived/papa.indstate.edu/winsock/Windows95/WWW-Browsers/Plug-In/ls26.exe
+[lsnswi32.exe]: https://web.archive.org/web/19971108045501/http://www.infinop.com:80/fhtml/
 
 ## Lightning Strike Video Codec 3.5
 
-| file name   |   file size |   README date | file MD5 hash                    |
+| file name   |   file size |     file date | file MD5 hash                    |
 | :---------- | ----------: | ------------: | :------------------------------- |
 | lsvc30.dll  |       83968 |    1998-04-23 | 7162a06af5c258caccb2ee1e9bde6441 |
 | lsvc.dll    |      123392 |    1998-05-12 | ebe72859ffd2da2d280d9f08b73a302f |
 | lsvd30.dll  |       91648 |    1998-04-23 | 3746ceafe7ec518a96421ca4515ddbbb |
 
+source: [lsvideo5_NT.zip]
+
+[lsvideo5_NT.zip]: https://web.archive.org/web/19980612221627/http://www.infinop.com:80/fhtml/lsvideo5_NT.zip
+
 ## Lightning Strike Video Messenger 2.4
+
+| file name          |   file size |     file date | file MD5 hash                    |
+| :----------------- | ----------: | ------------: | :------------------------------- |
+| encvm.dll          |      229376 |    1999-01-03 | 9b509174dae3f519a65228e2e437c7dc |
+| lsvmplus.dll       |      262144 |    1999-01-03 | 5d67c1410ec5ec0f5011fd0a4c62bc11 |
+| VideoMessenger.exe |      985367 |    2000-04-03 | 7ef54e6303c09f022b51060c20005586 |
+
+source: [Neo Volume 5](https://archive.org/details/neo05-cd-set)
 
 ## Other DLLs
 
 | file name     |   file size | file date    | file MD5 hash                    | source           |
 | :------------ | ----------: | :----------- | :------------------------------- | :--------------- |
-| lsd26dll.dll  |       69632 | 1996-08-07   | fb3fc544f1a0b94fc286f1eb43bd1bbd | D-Sat 1 CD-ROM   |
-| lsvxdec.dll   |      204800 |              | e93ad6b252aaa2631dbc1bd7abca00f9 |                  |
+| lsd26dll.dll  |       69632 | 1996-08-07   | fb3fc544f1a0b94fc286f1eb43bd1bbd | D-Sat 1          |
+| lsvxdec.dll   |      204800 |              | e93ad6b252aaa2631dbc1bd7abca00f9 | [GitHub]         |
+
+[GitHub]: https://github.com/jjbunbury/mplayer-codecs/blob/master/lsvxdec.dll
+
+## Java
+
+https://web.archive.org/web/19961106190832/http://euclid.infinop.com:80/html/java/NEWJAVA.ZIP
 
 # Use
 
