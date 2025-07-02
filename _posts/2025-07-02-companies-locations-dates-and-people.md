@@ -27,9 +27,9 @@ CIS, Inc. to Infinop, Inc. and the Lightning Strike image codec. The
 [windows subdirectory] of the "infinop" directory contains the
 executables [ls16tiny.exe], [ls32tiny.exe], and [lstplug.exe] that
 contain 16 and 32 bit variants of the Lightning Strike [web browser
-plugin](documentation.html#web-browser-plugin) in version 1.7, the
+plugin](/documentation.html#web-browser-plugin) in version 1.7, the
 file [lsic25.zip] that contains the [Lightning Strike Image Compressor
-(LSIC)](documentation.html#lightning-strike-image-compressor-lsic) in
+(LSIC)](/documentation.html#lightning-strike-image-compressor-lsic) in
 version 2.5, as well as a directory with several [exemplary CIS/COD
 images].
 
@@ -82,17 +82,18 @@ Strike technology.
 
 There's another company – *Infinitron, Inc.* – that seems to have
 played a role in the codec. It is mentioned in the [patent
-WO1998040842A1] that was published in September 17, 1998. The patent
+WO1998040842A1] that was published on September 17, 1998. The patent
 contains the paper [An approach of fast integer reversible wavelet
-transform for image compression][chao1997approach] written by Hongyang Chao and
-Paul Fisher of "Computer and Information Science Inc." [sic] located
-at *3401 East University #104, Denton, TX 76208*. That is the address
-that Infinop, Inc. gave on its web page and *not* the CSI, Inc. page
-from the other paper! The patent also contains a product flyer for the
-*Lightning Strike Image Compressor (LSIC)* version 3.0, distributed by
-*Infinitron, Inc.*  – also located at *3401 East University #104,
-Denton, TX 76208*. And, last but not least, the patent shows HTML
-source code to embed an image map that links to www.infinop.com.
+transform for image compression][chao1997approach] written by Hongyang
+Chao and Paul Fisher of "Computer and Information Science Inc." [sic]
+located at *3401 East University #104, Denton, TX 76208*. That is the
+address that Infinop, Inc. (!) gave on its web page and **not** the
+CSI, Inc. page from the other paper! The patent also contains a
+product flyer for the [Lightning Strike Image Compressor (LSIC)
+version 3.0](/documentation.html#lsic-30), distributed by *Infinitron,
+Inc.*  – also located at *3401 East University #104, Denton, TX
+76208*. And, last but not least, the patent shows HTML source code to
+embed an image map that links to www.infinop.com.
 
 [patent WO1998040842A1]: https://patents.google.com/patent/WO1998040842A1
 [chao1997approach]: https://www.researchgate.net/publication/2342291_An_Approach_to_Fast_Integer_Reversible_Wavelet_Transforms_for_Image_Compression
