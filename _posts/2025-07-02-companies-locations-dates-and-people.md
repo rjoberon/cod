@@ -12,25 +12,19 @@ involved in the implementation of the Lightning Strike image codec.
 
 The [Lightning Strike image codec] was distributed by a company named
 *Infinop, Inc.* and there are several links between that company and
-*Computer and Information Sciences, Inc.*
-
-[Lightning Strike image codec]: https://web.archive.org/web/19970613234152/http://www.infinop.com/nhtml/lsinfo.shtml
-
-I first stumbled over the name *Computer and Information Sciences,
-Inc.* (or short *CIS, Inc.*) in the publication "[Dissemination of
-compressed Satellite imagery within the Navy SPAWAR Central Site
-Product Display
-environment](https://ntrs.nasa.gov/citations/19960008292)" ([archived
+*Computer and Information Sciences, Inc.* I first stumbled over the
+latter name (that can be abbreviated as *CIS, Inc.*) in the
+publication [Dissemination of compressed Satellite imagery within the
+Navy SPAWAR Central Site Product Display
+environment](https://ntrs.nasa.gov/citations/19960008292) ([archived
 tar.gz with all HTML documents from the host
-www.compsci.com](https://web.archive.org/web/19970619034116/http://www.compsci.com:80/SIMDC95.tar.gz))
-that was published on October 1, 1995, at *The 1995 Science
-Information Management and Data Compression Workshop*. Looking at
-[it's archived web
-page](https://web.archive.org/web/19970619034025/http://www.compsci.com/)
-we see a directory listing with two folders – [infinop] and [lstrike]
-that link that company to Infinop, Inc. and the Lightning Strike image
-codec. The [windows subdirectory] of the "infinop" directory contains
-the executables [ls16tiny.exe], [ls32tiny.exe], and [lstplug.exe] that
+www.compsci.com][SIMDC95.tar.gz]) that was published on October 1,
+1995, at *The 1995 Science Information Management and Data Compression
+Workshop*. Looking at [it's archived web page][compsci.com] we see a
+directory listing with two folders – [infinop] and [lstrike] that link
+CIS, Inc. to Infinop, Inc. and the Lightning Strike image codec. The
+[windows subdirectory] of the "infinop" directory contains the
+executables [ls16tiny.exe], [ls32tiny.exe], and [lstplug.exe] that
 contain 16 and 32 bit variants of the Lightning Strike [web browser
 plugin](documentation.html#web-browser-plugin) in version 1.7, the
 file [lsic25.zip] that contains the [Lightning Strike Image Compressor
@@ -38,6 +32,9 @@ file [lsic25.zip] that contains the [Lightning Strike Image Compressor
 version 2.5, as well as a directory with several [exemplary CIS/COD
 images].
 
+[Lightning Strike image codec]: https://web.archive.org/web/19970613234152/http://www.infinop.com/nhtml/lsinfo.shtml
+[SIMDC95.tar.gz]: https://web.archive.org/web/19970619034116/http://www.compsci.com:80/SIMDC95.tar.gz
+[compsci.com]: https://web.archive.org/web/19970619034025/http://www.compsci.com/
 [infinop]: https://web.archive.org/web/19970619034025/http://www.compsci.com/infinop/
 [lstrike]: https://web.archive.org/web/19970619034025/http://www.compsci.com/lstrike/
 [windows subdirectory]: https://web.archive.org/web/19970619034318/http://www.compsci.com/lstrike/windows/
@@ -48,15 +45,13 @@ images].
 [exemplary CIS/COD images]: https://web.archive.org/web/19970619035057/http://www.compsci.com/lstrike/windows/CODEC/images/
 
 Another evidence for the relationship between the two companies are
-their addresses and employees. The [Infinop web
-page](https://web.archive.org/web/19970613234119/http://www.infinop.com/)
-states the company's a address as *3401 East University #104, Denton,
-TX 76208* and [a press release] states that "Craig Fisher" is
-"president of Infinop, Inc.". The above-mentioned publication states
-as the address of Compsci, Inc. *303 N. Carroll, Suite 108, Denton TX
-76201*, which is [roughly 5
-miles](https://maps.app.goo.gl/NUYagtAU8kUNGD757) apart from the
-former location of Infinop, Inc.
+their addresses. The [Infinop web page][infinop] states the company's
+address as *3401 East University #104, Denton, TX 76208* and [a press
+release] states that "Craig Fisher" is "president of Infinop,
+Inc.". The above-mentioned publication states as the address of
+Compsci, Inc. *303 N. Carroll, Suite 108, Denton TX 76201*, which is
+[roughly 5 miles](https://maps.app.goo.gl/NUYagtAU8kUNGD757) apart
+from the former location of Infinop, Inc.
 
 The authors of the publication are "Oleg Kiselyov and Paul Fisher",
 who also co-authored other image compression-related papers, for
