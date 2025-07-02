@@ -1,5 +1,5 @@
 ---
-title: Companies, Locations, and People
+title: Companies, Locations, Dates, and People
 description: What "CIS" means and which people and companies were involved
 ---
 
@@ -14,14 +14,7 @@ The [Lightning Strike image codec] was distributed by a company named
 *Infinop, Inc.* and there are several links between that company and
 *Computer and Information Sciences, Inc.*
 
-
-The [first capture of the Infinop's web page in the Internet
-Archive](https://web.archive.org/web/19970613234152/http://www.infinop.com/)
-dates from June 13, 1997 but the first entry on the [news page] is
-from September 13, 1996.
-
 [Lightning Strike image codec]: https://web.archive.org/web/19970613234152/http://www.infinop.com/nhtml/lsinfo.shtml
-[news page]: https://web.archive.org/web/19970613234247/http://www.infinop.com/nhtml/news.shtml
 
 I first stumbled over the name *Computer and Information Sciences,
 Inc.* (or short *CIS, Inc.*) in the publication "[Dissemination of
@@ -117,6 +110,13 @@ source code to embed an image map that links to www.infinop.com.
     <td>303 N. Carroll, Suite 108, Denton TX 76201</td>
   </tr>
   <tr>
+    <td><a href="https://web.archive.org/web/19970613234247/http://www.infinop.com/nhtml/news.shtml">first news entry on Infinop web page</a></td>
+    <td>September 13, 1996</td>
+    <td></td>
+    <td>Infinop, Inc.</td>
+    <td>3401 East University #104, Denton, TX 76208</td>
+  </tr>
+  <tr>
     <td>press release <a href="https://web.archive.org/web/19970613234255/http://www.infinop.com/nhtml/press.shtml">Lightning Strike 2.6 Plugin is Ready for the Web</a></td>
     <td>November 7, 1996</td>
     <td>president: Craig Fisher</td>
@@ -125,7 +125,7 @@ source code to embed an image map that links to www.infinop.com.
   </tr>
   <tr>
     <td>scholarly article <a href="https://www.researchgate.net/publication/2342291_An_Approach_to_Fast_Integer_Reversible_Wavelet_Transforms_for_Image_Compression">An Approach to Fast Integer Reversible Wavelet Transforms for Image Compression</a></td>
-    <td><a href="https://www.google.de/search?q=%22An%20Approach%20to%20Fast%20Integer%20Reversible%20Wavelet%20Transforms%20for%20Image%20Compression%22">citing papers</a> state varying dates between September 1996 and May 1997</td>
+    <td><a href="https://www.google.de/search?q=%22An%20Approach%20to%20Fast%20Integer%20Reversible%20Wavelet%20Transforms%20for%20Image%20Compression%22">citing papers</a> state varying dates between September 1996 and May 1997, the <a href="https://web.archive.org/web/19990220160521/http://www.compsci.com/%7Echao/Publication/">homepage of Hongyang Chao</a> states "AUG. 11-15, 1997" as the date of the symposium where the article was presented</td>
     <td>authors: Hongyang Chao, Paul Fisher</td>
     <td>Computer and Information Science Inc.</td>
     <td>3401 E. University, Suite 104. Denton, TX 76208</td>
