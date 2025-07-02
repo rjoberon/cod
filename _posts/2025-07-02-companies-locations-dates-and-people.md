@@ -80,11 +80,11 @@ Strike technology.
 
 ## Infinitron, Inc.
 
-Weirdly enough, there's another company, *Infinitron, Inc.*, that
-seems to have played a role in the codec. It is mentioned in the
-[patent WO1998040842A1] that was published in September 17, 1998. The
-patent contains the paper *An approach of fast integer reversible
-wavelet transform for image compression* written by Hongyang Chao and
+There's another company – *Infinitron, Inc.* – that seems to have
+played a role in the codec. It is mentioned in the [patent
+WO1998040842A1] that was published in September 17, 1998. The patent
+contains the paper [An approach of fast integer reversible wavelet
+transform for image compression][chao1997approach] written by Hongyang Chao and
 Paul Fisher of "Computer and Information Science Inc." [sic] located
 at *3401 East University #104, Denton, TX 76208*. That is the address
 that Infinop, Inc. gave on its web page and *not* the CSI, Inc. page
@@ -95,6 +95,7 @@ Denton, TX 76208*. And, last but not least, the patent shows HTML
 source code to embed an image map that links to www.infinop.com.
 
 [patent WO1998040842A1]: https://patents.google.com/patent/WO1998040842A1
+[chao1997approach]: https://www.researchgate.net/publication/2342291_An_Approach_to_Fast_Integer_Reversible_Wavelet_Transforms_for_Image_Compression
 
 ## Overview and Summary
 
