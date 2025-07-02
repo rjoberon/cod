@@ -67,33 +67,32 @@ publication are "Oleg Kiselyov and Paul Fisher", who also co-authored
 other image compression-related papers, for example, [Image
 Compression with Iterated Function Systems, Finite Automata and
 Zerotrees: Grand Unification](https://arxiv.org/abs/cs/0003065)
-(submitted to arXiv on March 15, 2000).
+(submitted to arXiv on March 15, 2000). Oleg Kiselyov
+[graduated][thesis_ok] as a PhD under supervision of Dr. Paul
+S. Fisher at the university of North Texas.  We could speculate
+whether Paul (S.) Fisher and Craig Fisher might have been relatives.
 
 [a press release]: https://web.archive.org/web/19970613234255/http://www.infinop.com/nhtml/press.shtml
-
-Although there is no obvious overlap, we do not need to speculate that
-Paul Fisher and Craig Fisher might have been relatives since, given
-the other clues it seems evident that *Infinop, Inc.*  and *Computer
-and Information Sciences, Inc.* were both related to the Lightning
-Strike technology.
+[thesis_ok]: https://web.archive.org/web/19970619034215/http://www.compsci.com/misc/thesis1.tar.gz
 
 
-## Infinitron, Inc.
+## Infinitron Research International, Inc.
 
-There's another company – *Infinitron, Inc.* – that seems to have
-played a role in the codec. It is mentioned in the [patent
-WO1998040842A1] that was published on September 17, 1998. The patent
-contains the paper [An approach of fast integer reversible wavelet
-transform for image compression][chao1997approach] written by Hongyang
-Chao and Paul Fisher of "Computer and Information Science Inc." [sic]
-located at *3401 East University #104, Denton, TX 76208*. That is the
-address that Infinop, Inc. (!) gave on its web page and **not** the
-CSI, Inc. page from the other paper! The patent also contains a
-product flyer for the [Lightning Strike Image Compressor (LSIC)
-version 3.0](/documentation.html#lsic-30), distributed by *Infinitron,
-Inc.*  – also located at *3401 East University #104, Denton, TX
-76208*. And, last but not least, the patent shows HTML source code to
-embed an image map that links to www.infinop.com.
+There's another company – *Infinitron Research International, Inc.* –
+that seems to have played a role in the codec. It is mentioned in the
+[patent WO1998040842A1] that was published on September 17, 1998. The
+patent contains the paper [An approach of fast integer reversible
+wavelet transform for image compression][chao1997approach] written by
+Hongyang Chao and Paul Fisher of "Computer and Information Science
+Inc." [sic] located at *3401 East University #104, Denton, TX
+76208*. That is the address that Infinop, Inc. (!) gave on its web
+page and **not** the CSI, Inc. page from the other paper! The patent
+also contains a product flyer for the [Lightning Strike Image
+Compressor (LSIC) version 3.0](/documentation.html#lsic-30),
+distributed by *Infinitron, Inc.*  – also located at *3401 East
+University #104, Denton, TX 76208*. And, last but not least, the
+patent shows HTML source code to embed an image map that links to
+www.infinop.com.
 
 [patent WO1998040842A1]: https://patents.google.com/patent/WO1998040842A1
 [chao1997approach]: https://www.researchgate.net/publication/2342291_An_Approach_to_Fast_Integer_Reversible_Wavelet_Transforms_for_Image_Compression
@@ -136,7 +135,7 @@ embed an image map that links to www.infinop.com.
     <td>Infinitron Product Fact Sheet for the Lightning Strike Image Compressor (LSIC) version 3.0 (<a href="https://patentimages.storage.googleapis.com/84/9b/5b/4194d0fadb63e7/WO1998040842A1.pdf">PDF of the patent that contains it</a>)</td>
     <td>March 1997</td>
     <td></td>
-    <td>Infinitron</td>
+    <td>Infinitron Research International, Inc.</td>
     <td>3401 East University, #104, Denton, TX.76208</td>
   </tr>
   <tr>
@@ -147,3 +146,10 @@ embed an image map that links to www.infinop.com.
     <td>Suite 104, 3401 East University, Denton, TX 76208</td>
   </tr>
 </table>
+
+
+Given the many clues it seems evident that *Infinop, Inc.*,
+*Infinitron Research International, Inc.*, and *Computer and
+Information Sciences, Inc.* were all related to the Lightning Strike
+image compression technology and were likely founded or run by the
+same (group of) people.
