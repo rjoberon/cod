@@ -28,6 +28,9 @@ This page will be regularly updated by incorporating information from the posts.
 | file date              | 1996-04-11                       | 1996-10-17                       |
 | file MD5 hash          | 3f6d7e0c8260e51f61b3fdf85efd8931 | 1a4ed8edeb6bbd66ff3bad6c0a3e0276 |
 | supported file formats | .bmp, .cod, .tga                 | .bmp, .cod, .tga, .gif, .jpg     |
+| source                 | [lsic25.zip]                     |                                  |
+
+[lsic25.zip]: https://web.archive.org/web/19970619034938/http://www.compsci.com/lstrike/windows/CODEC/lsic25.zip
 
 ### LSIC 2.5
 
@@ -60,12 +63,16 @@ there existed a "Lightning Strike™ Image Compressor (LSIC) version
 
 ## Web Browser Plugin
 
-|  version |          | file name     |   file size | date                  | file MD5 hash                    |
-| -------: | -------: | :------------ | ----------: | :-------------------- | :------------------------------- |
-|      1.7 | 16 bit   | NPCOD16.DLL   |      125312 | 1996-04-23 (DLL)      | 7c7c5df1f7ea6c95acb7118d1e995093 |
-|      1.7 | 32 bit   | NPCOD32.DLL   |      179712 | 1996-04-23 (DLL)      | 2d4f3656979c2cc27145f25b379c7bec |
-|    2.6.0 | 32 bit   | NPLS32.DLL    |      237056 | 1997-02-14 (README)   | bd3c81d8185588b9ca76af8b196897df |
-|    3.1.3 | 32 bit   | NpLS32.dll    |      280064 | 1997-09-29 (DLL)      | d9c1b69f2a5081350c66bc23b696b582 |
+|  version |          | file name     |   file size | date                  | file MD5 hash                    | source                        |
+| -------: | -------: | :------------ | ----------: | :-------------------- | :------------------------------- | :---------------------------- |
+|      1.7 | 16 bit   | NPCOD16.DLL   |      125312 | 1996-04-23 (DLL)      | 7c7c5df1f7ea6c95acb7118d1e995093 | [ls16tiny.exe], [lstplug.exe] |
+|      1.7 | 32 bit   | NPCOD32.DLL   |      179712 | 1996-04-23 (DLL)      | 2d4f3656979c2cc27145f25b379c7bec | [ls32tiny.exe], [lstplug.exe] |
+|    2.6.0 | 32 bit   | NPLS32.DLL    |      237056 | 1997-02-14 (README)   | bd3c81d8185588b9ca76af8b196897df |                               |
+|    3.1.3 | 32 bit   | NpLS32.dll    |      280064 | 1997-09-29 (DLL)      | d9c1b69f2a5081350c66bc23b696b582 |                               |
+
+[ls16tiny.exe]: https://web.archive.org/web/19970619034318/http://www.compsci.com/lstrike/windows/ls16tiny.exe
+[ls32tiny.exe]: https://web.archive.org/web/19970619034318/http://www.compsci.com/lstrike/windows/ls32tiny.exe
+[lstplug.exe]: https://web.archive.org/web/19970619034318/http://www.compsci.com/lstrike/windows/lstplug.exe
 
 ## Lightning Strike Video Codec 3.5
 
