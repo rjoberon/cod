@@ -15,9 +15,9 @@ This page will be regularly updated by incorporating information from the posts.
 
 - Lightning Strike: the trademark registered as the product name for
   the compression technology
-- COD: [very likely](https://cod.igada.de/2025/05/07/understanding-the-cis-cod-image-file-format.html) stands for "coded" (image)
+- COD: [very likely](/2025/05/07/understanding-the-cis-cod-image-file-format.html) stands for "coded" (image)
 - CIS: [almost
-  certainly](https://cod.igada.de/2025/07/02/companies-locations-dates-and-people.html)
+  certainly](/2025/07/02/companies-locations-dates-and-people.html)
   stands for "Computer and Information Sciences, Inc.", a company that
   was involved in the implementation of the Lightning Strike image
   codec.
@@ -28,7 +28,7 @@ This page will be regularly updated by incorporating information from the posts.
 - Infinop, Inc.
 - Infinitron Research International, Inc.
 
-([described here](https://cod.igada.de/2025/07/02/companies-locations-dates-and-people.html))
+([described here](/2025/07/02/companies-locations-dates-and-people.html))
 
 # Versions
 
