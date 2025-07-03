@@ -10,7 +10,7 @@ involved in the implementation of the Lightning Strike image codec.
 
 [Our first post]: https://cod.igada.de/2025/05/07/understanding-the-cis-cod-image-file-format.html
 
-## Infinop, Inc. and Computer and Information Sciences, Inc.
+## *Infinop, Inc.* and *Computer and Information Sciences, Inc.*
 The [Lightning Strike image codec] was distributed by a company named
 *Infinop, Inc.* and there are several links between that company and
 *Computer and Information Sciences, Inc.* I first stumbled over the
@@ -21,9 +21,9 @@ environment](https://ntrs.nasa.gov/citations/19960008292) ([archived
 tar.gz with all HTML documents from the host
 www.compsci.com][SIMDC95.tar.gz]) that was published on October 1,
 1995, at *The 1995 Science Information Management and Data Compression
-Workshop*. Looking at [it's archived web page][compsci.com] we see a
-directory listing with two folders – [infinop] and [lstrike] that link
-CIS, Inc. to Infinop, Inc. and the Lightning Strike image codec. The
+Workshop*. Looking at [the company's archived web page][compsci.com]
+we see a directory listing with two folders – [infinop] and [lstrike]
+that link CIS to Infinop and the Lightning Strike image codec. The
 [windows subdirectory] of the "infinop" directory contains the
 executables [ls16tiny.exe], [ls32tiny.exe], and [lstplug.exe] that
 contain 16 and 32 bit variants of the Lightning Strike [web browser
@@ -48,18 +48,19 @@ images].
 Another evidence for the relationship between the two companies are
 their addresses. The [Infinop web page][infinop] states the company's
 address as *3401 East University #104, Denton, TX 76208*. The
-above-mentioned publication states as the address of Compsci,
-Inc. *303 N. Carroll, Suite 108, Denton TX 76201*, which is [roughly 5
-miles](https://maps.app.goo.gl/NUYagtAU8kUNGD757) apart from the
-former location of Infinop, Inc.
+above-mentioned publication states as the address of Compsci, Inc.
+*303 N. Carroll, Suite 108, Denton TX 76201*. Both locations are
+[roughly 5 miles apart](https://maps.app.goo.gl/NUYagtAU8kUNGD757) in
+Denton, Texas..
 
 Another link between the two companies is via the [former
 homepage](https://web.archive.org/web/19990220121339/http://www.compsci.com/%7Echao/)
 of [Hongyang
 Chao](https://scholar.google.de/citations?hl=de&user=qnbpG6gAAAAJ),
-which was hosted on compsci.com and states that she is the designer of
-the Lightning Strike image compressor, linking to
-[infinop.com](https://web.archive.org/web/19990220121339/http://www.infinop.com/).
+which was hosted on
+[compsci.com](https://web.archive.org/web/*/compsci.com/*) and states
+that she is the designer of the Lightning Strike image compressor,
+linking to [infinop.com](https://web.archive.org/web/*/infinop.com/*).
 
 Looking at other people, [a press release] states that "Craig Fisher"
 is "president of Infinop, Inc." and the authors of the above-mentioned
@@ -76,7 +77,7 @@ whether Paul (S.) Fisher and Craig Fisher might have been relatives.
 [thesis_ok]: https://web.archive.org/web/19970619034215/http://www.compsci.com/misc/thesis1.tar.gz
 
 
-## Infinitron Research International, Inc.
+## *Infinitron Research International, Inc.*
 
 There's another company – *Infinitron Research International, Inc.* –
 that seems to have played a role in the codec. It is mentioned in the
