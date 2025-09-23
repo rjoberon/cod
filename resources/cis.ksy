@@ -51,7 +51,7 @@ types:
         doc: image height
       - id: bpp
         type: u1
-        doc: bits per pixel (typically: 8 for gray and 24 for color)
+        doc: "bits per pixel (typically: 8 for gray and 24 for color)"
       - id: color_type
         type: u1
         enum: color_type
