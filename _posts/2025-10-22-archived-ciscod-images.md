@@ -23,7 +23,7 @@ This list is based on the MIME type which the HTTP servers delivered
 in their HTTP response's "Content-Type" field during crawling. So I
 was curious as to how many of those files are actually CIS/COD images.
 The first step in finding that out is to [download these
-files](src/get_files_from_ia.sh) and this worked for 1230 of the 1552
+files](/src/get_files_from_ia.sh) and this worked for 1230 of the 1552
 listed files.
 
 The script actually does a bit more, by already checking the first
