@@ -16,7 +16,7 @@ Holzmann](https://www.helgeholzmann.de/), who works at the Internet
 Archive, we are now able to analyse the CIS/COD images that have been
 archived by the Internet Archive. Helge extracted [a list of 1552 URLs
 that hosted files with the MIME type
-"image/cis-cod"](data/GWB-20240822201647_image-cis-cod.cdx) from the
+"image/cis-cod"](/data/GWB-20240822201647_image-cis-cod.cdx) from the
 Internet Archive's collection.
 
 This list is based on the MIME type which the HTTP servers delivered
@@ -62,8 +62,8 @@ type. The result is as follows:
 So only 221 of the 1552 candidate files could be downloaded and are
 actually (or at least very likely) CIS/COD images.
 
-Which version of the file format have the images been stored? Looking
-at their first six bytes reveals that:
+In which version of the file format have the images been stored?
+Looking at their first six bytes reveals that:
 
 ```shell
 for f in image_cis-cod/*cod; do
@@ -84,7 +84,7 @@ So these are mainly files in CIS/COD version 2.5. With a [magic file
 for the `file` command](/resources/magic) we can also extract the
 heights and widths of the images and plot them:
 
-file:/img/ia_cod_sizes.png
+![Widths and heights of CIS/COD images](/img/ia_cod_sizes.png)
 
 So most images are smaller than 800x600 pixels and there is one large
 image 2000x1400 pixels in size.
@@ -125,7 +125,7 @@ useable image format. So I converted the 42 images in CIS/COD
 version 3.0 manually with [LSIC 2.6](/documentation.html#software) and
 created the following collage:
 
-file:/img/ia_cod30_collage.jpg
+![A collage of 42 CIS/COD images found on the Web](/img/ia_cod30_collage.jpg)
 
 These might be the only CIS/COD 3.0 images that are available on the
 Web!
