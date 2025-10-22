@@ -125,7 +125,51 @@ useable image format. So I converted the 42 images in CIS/COD
 version 3.0 manually with [LSIC 2.6](/documentation.html#software) and
 created the following collage:
 
-![A collage of 42 CIS/COD images found on the Web](/img/ia_cod30_collage.jpg)
+<img usemap="#out" src="/img/ia_cod30_collage.jpg" style="border: 0;" alt="A collage of 42 CIS/COD images found on the Web" />
+<map id="out" name="out">
+  <area href="http://web.archive.org/web/19970406052226/http://atyour.com:80/cc/light/latcxr.cod" shape="rect" coords="0,0,103,103" alt="" />
+  <area href="http://web.archive.org/web/19971108045615/http://www.infinop.com:80/fhtml/boy.cod" shape="rect" coords="104,0,207,103" alt="" />
+  <area href="http://web.archive.org/web/19980612221709/http://www.infinop.com:80/fhtml/ct.cod" shape="rect" coords="208,0,311,103" alt="" />
+  <area href="http://web.archive.org/web/19980612221813/http://www.infinop.com:80/fhtml/d2.cod" shape="rect" coords="312,0,415,103" alt="" />
+  <area href="http://web.archive.org/web/19971108045657/http://www.infinop.com:80/fhtml/eagle.cod" shape="rect" coords="416,0,519,103" alt="" />
+  <area href="http://web.archive.org/web/19980612221834/http://www.infinop.com:80/fhtml/etot.cod" shape="rect" coords="520,0,623,103" alt="" />
+  <area href="http://web.archive.org/web/19971108045739/http://www.infinop.com:80/fhtml/fox.cod" shape="rect" coords="624,0,727,103" alt="" />
+  <area href="http://web.archive.org/web/19971108045636/http://www.infinop.com:80/fhtml/hands.cod" shape="rect" coords="0,104,103,207" alt="" />
+  <area href="http://web.archive.org/web/19980612221731/http://www.infinop.com:80/fhtml/plane.cod" shape="rect" coords="104,104,207,207" alt="" />
+  <area href="http://web.archive.org/web/19980612221752/http://www.infinop.com:80/fhtml/segy.cod" shape="rect" coords="208,104,311,207" alt="" />
+  <area href="http://web.archive.org/web/19971108045718/http://www.infinop.com:80/fhtml/wolf.cod" shape="rect" coords="312,104,415,207" alt="" />
+  <area href="http://web.archive.org/web/19980623112944/http://www.intermodalex.com:80/testbox25.cod" shape="rect" coords="416,104,519,207" alt="" />
+  <area href="http://web.archive.org/web/20030226011635/http://w3.tyenet.com:80/mbabcock/images/canyon.cod" shape="rect" coords="520,104,623,207" alt="" />
+  <area href="http://web.archive.org/web/20021226002933/http://w3.tyenet.com:80/mbabcock/images/gradpic.cod" shape="rect" coords="624,104,727,207" alt="" />
+  <area href="http://web.archive.org/web/20021226005016/http://w3.tyenet.com:80/mbabcock/images/mebig.cod" shape="rect" coords="0,208,103,311" alt="" />
+  <area href="http://web.archive.org/web/20021226003635/http://w3.tyenet.com:80/mbabcock/images/me.cod" shape="rect" coords="104,208,207,311" alt="" />
+  <area href="http://web.archive.org/web/20021221074015/http://w3.tyenet.com:80/mbabcock/images/mikebanner.cod" shape="rect" coords="208,208,311,311" alt="" />
+  <area href="http://web.archive.org/web/20021225233701/http://w3.tyenet.com:80/mbabcock/images/myHEATchar.cod" shape="rect" coords="312,208,415,311" alt="" />
+  <area href="http://web.archive.org/web/20030226013524/http://w3.tyenet.com:80/mbabcock/images/soulbait.cod" shape="rect" coords="416,208,519,311" alt="" />
+  <area href="http://web.archive.org/web/20021221074434/http://w3.tyenet.com:80/mbabcock/images/world.cod" shape="rect" coords="520,208,623,311" alt="" />
+  <area href="http://web.archive.org/web/19970817134557/http://www.stud.uni-hannover.de:80/~hemmerli/aegi3.cod" shape="rect" coords="624,208,727,311" alt="" />
+  <area href="http://web.archive.org/web/19970818002356/http://www.stud.uni-hannover.de:80/user/77440/aegi3.cod" shape="rect" coords="0,312,103,415" alt="" />
+  <area href="http://web.archive.org/web/19970612165625/http://www.cute.or.jp:80/~makuchan/images/rura/congrat.cod" shape="rect" coords="104,312,207,415" alt="" />
+  <area href="http://web.archive.org/web/19971110193242/http://www.cute.or.jp:80/~makuchan/images/rura/lkl.cod" shape="rect" coords="208,312,311,415" alt="" />
+  <area href="http://web.archive.org/web/19971110193432/http://www.cute.or.jp:80/~makuchan/images/rura/seago.cod" shape="rect" coords="312,312,415,415" alt="" />
+  <area href="http://web.archive.org/web/19980527024752/http://www.cute.or.jp:80/~makuchan/maku/svmulc_lf.cod" shape="rect" coords="416,312,519,415" alt="" />
+  <area href="http://web.archive.org/web/20000819134056/http://www.intrepid.net:80/~hollyoak/winter.cod" shape="rect" coords="520,312,623,415" alt="" />
+  <area href="http://web.archive.org/web/19971111235412/http://info.uba.uva.nl:80/nl/collecties/rosenthaliana/menasseh/gif/exodus2000.cod" shape="rect" coords="624,312,727,415" alt="" />
+  <area href="http://web.archive.org/web/19971120014803/http://www.rosebank.demon.co.uk:80/stone/fugazi/cod/fgzi_dor1.cod" shape="rect" coords="0,416,103,519" alt="" />
+  <area href="http://web.archive.org/web/19971120014824/http://www.rosebank.demon.co.uk:80/stone/fugazi/cod/fgzi_ham2.cod" shape="rect" coords="104,416,207,519" alt="" />
+  <area href="http://web.archive.org/web/19971120014845/http://www.rosebank.demon.co.uk:80/stone/fugazi/cod/fgzi_ham3.cod" shape="rect" coords="208,416,311,519" alt="" />
+  <area href="http://web.archive.org/web/19971120014856/http://www.rosebank.demon.co.uk:80/stone/fugazi/cod/fgzi_ham4.cod" shape="rect" coords="312,416,415,519" alt="" />
+  <area href="http://web.archive.org/web/19971120014910/http://www.rosebank.demon.co.uk:80/stone/fugazi/cod/fgzi_ham5.cod" shape="rect" coords="416,416,519,519" alt="" />
+  <area href="http://web.archive.org/web/19971120014931/http://www.rosebank.demon.co.uk:80/stone/fugazi/cod/fgzi_ham7.cod" shape="rect" coords="520,416,623,519" alt="" />
+  <area href="http://web.archive.org/web/19970410052732/http://www.thecdp.demon.co.uk:80/images/flamer.cod" shape="rect" coords="624,416,727,519" alt="" />
+  <area href="http://web.archive.org/web/19970410052043/http://www.thecdp.demon.co.uk:80/images/frontfin.cod" shape="rect" coords="0,520,103,623" alt="" />
+  <area href="http://web.archive.org/web/19970410052755/http://www.thecdp.demon.co.uk:80/images/log.cod" shape="rect" coords="104,520,207,623" alt="" />
+  <area href="http://web.archive.org/web/19970410052206/http://www.thecdp.demon.co.uk:80/images/markgen.cod" shape="rect" coords="208,520,311,623" alt="" />
+  <area href="http://web.archive.org/web/19970410052839/http://www.thecdp.demon.co.uk:80/images/pag3.cod" shape="rect" coords="312,520,415,623" alt="" />
+  <area href="http://web.archive.org/web/19970410052927/http://www.thecdp.demon.co.uk:80/images/page4.cod" shape="rect" coords="416,520,519,623" alt="" />
+  <area href="http://web.archive.org/web/19970410053050/http://www.thecdp.demon.co.uk:80/images/sweet.cod" shape="rect" coords="520,520,623,623" alt="" />
+  <area href="http://web.archive.org/web/19970410052644/http://www.thecdp.demon.co.uk:80/images/trev.cod" shape="rect" coords="624,520,727,623" alt="" />
+</map>
 
 These might be the only CIS/COD 3.0 images that are available on the
 Web!
