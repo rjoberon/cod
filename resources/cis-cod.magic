@@ -1,0 +1,41 @@
+# Type: CIS/COD Bitmaps
+# Documentation: https://cod.igada.de/ and http://fileformats.archiveteam.org/wiki/Lightning_Strike
+# From: Robert Jäschke <robert.jaeschke at hu-berlin.de>
+#       with improvements by Jason Summers
+0           string/b  CIS
+>4          ubyte     0x2e
+>>3         ubyte     >0x31
+>>>3        ubyte     <0x34     CIS/COD image data
+!:mime  image/cis-cod
+!:ext   cod
+
+# versions 2.3 to 2.5 are different to version 3.0
+>>>>3       regex/4   2\\.[345] \b, version %s
+>>>>>16     uleshort  x         \b, %u x
+>>>>>18     uleshort  x         %u
+
+# so far we know more about version 3.0
+>>>>3       string/3  3.0       \b, version %s
+# width and height
+>>>>>16     uleshort  x         \b, %u x
+>>>>>18     uleshort  x         %u x
+>>>>>20     ubyte     x         %u
+
+# gray vs. color
+>>>>>21     byte      0         \b, gray
+>>>>>21     byte      1         \b, color
+# encoder type
+>>>>>24     byte      1         \b, lossy arithmetic encoder
+>>>>>24     byte      2         \b, lossless arithmetic encoder
+# compression type
+>>>>>25     byte      1         \b, bi-wavelet compression
+# quantizer type
+>>>>>26     byte      1         \b, table quantization
+# scb
+>>>>>27     byte      1         \b, SISD
+# color space
+>>>>>28     byte      1         \b, YIQ RGB
+>>>>>28     byte      2         \b, YUV RGB
+>>>>>28     byte      3         \b, YCbCr RGB
+# wavelet levels
+>>>>>29     ubyte     x         \b, %u wavelet levels

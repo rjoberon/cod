@@ -81,7 +81,7 @@ done | sort | uniq -c
 |         |   221 |
 
 So these are mainly files in CIS/COD version 2.5. With a [magic file
-for the `file` command](/resources/magic) we can also extract the
+for the `file` command](/resources/cis-cod.magic) we can also extract the
 heights and widths of the images and plot them:
 
 ![Widths and heights of CIS/COD images](/img/ia_cod_sizes.png)
