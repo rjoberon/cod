@@ -153,7 +153,11 @@ source: [Neo Volume 5](https://archive.org/details/neo05-cd-set)
 
 ## Java
 
-https://web.archive.org/web/19961106190832/http://euclid.infinop.com:80/html/java/NEWJAVA.ZIP
+A Java browser applet and application for reading CIS/COD images is
+contained in
+[NEWJAVA.ZIP](https://web.archive.org/web/19961106190832/http://euclid.infinop.com:80/html/java/NEWJAVA.ZIP). The
+app(let) can open some (but not all!) version 3.0 CIS/COD images.
+
 
 ## Compatibility with File Format Versions
 
