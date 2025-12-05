@@ -43,9 +43,8 @@ There exist at least four versions:
 - 3.0
 
 These do not necessarily match the version numbers of the
-[software](#software) described below.
-
-**TODO** which software can read/write which version?
+[software](#software) described below -- see [Compatibility with File
+Format Versions](#compatibility-with-file-format-versions).
 
 # File format
 
@@ -155,6 +154,21 @@ source: [Neo Volume 5](https://archive.org/details/neo05-cd-set)
 ## Java
 
 https://web.archive.org/web/19961106190832/http://euclid.infinop.com:80/html/java/NEWJAVA.ZIP
+
+## Compatibility with File Format Versions
+
+| software              |  version | 2.3  | 2.4  | 2.5        | 3.0        |
+| :-------------------- | :------- | :--  | :--  | :--------- | :--------- |
+| LSIC                  |      2.5 | read | read | read/write | -          |
+| LSIC                  |      2.6 | -    | -    | -          | read/write |
+| browser plugin 16 bit |      1.7 |      |      |            |            |
+| browser plugin 32 bit |      1.7 | read | read | read       | -          |
+| browser plugin 32 bit |    2.6.0 | read | read | read       | read       |
+| browser plugin 32 bit |    3.1.3 | read | read | read       | read       |
+| lsd26dll.dll          |          |      |      |            | read       |
+
+The browser plugins have an option to write (a previously opened)
+CIS/COD file which creates a copy of the file.
 
 # Use
 
