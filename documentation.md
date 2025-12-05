@@ -36,7 +36,25 @@ This page will be regularly updated by incorporating information from the posts.
 
 # Versions
 
+There exist at least four versions:
+- 2.3
+- 2.4
+- 2.5
+- 3.0
+
+These do not necessarily match the version numbers of the
+[software](#software) described below.
+
+**TODO** which software can read/write which version?
+
 # File format
+
+Visualization of the file format (for version 3.0) generated from
+[cis.ksy](resources/cis.ksy) using [Kaitai
+Struct](https://kaitai.io/):
+
+![visualization of the file format (for version 3.0)](img/cis_kaitai.png)
+
 
 # Coding / compression
 
