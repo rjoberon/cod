@@ -161,6 +161,10 @@ app(let) can open some (but not all!) version 3.0 images.
 
 ## Compatibility with File Format Versions
 
+The following table lists for a selection of software, which of the
+four known file format versions (2.3, 2.4, 2.5, and 3.0) each can read
+or write:
+
 | software              |  version | 2.3  | 2.4  | 2.5        | 3.0        |
 | :-------------------- | :------- | :--  | :--  | :--------- | :--------- |
 | LSIC                  |      2.5 | read | read | read/write | -          |
