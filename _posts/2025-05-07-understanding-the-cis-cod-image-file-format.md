@@ -54,5 +54,5 @@ page](https://cod.igada.de/documentation.html) currently mainly lists
 information about the known software and DLLs and the [resources
 page](https://cod.igada.de/resources.html) provides access to a [magic
 file](https://www.darwinsys.com/file/) for the file command and a
-[file format description](resources/cis.ksy) for [Kaitai
+[file format description](/resources/cis.ksy) for [Kaitai
 Struct](https://kaitai.io/).
